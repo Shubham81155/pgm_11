@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Google Maps Demo</string>
     <!-- Replace with your own details; shown on screen for the test-case screenshots -->
-    <string name="student_info">Name: YOUR NAME  |  USN: YOUR USN</string>
+    <string name="student_info">Name: Shubham   |  USN: 25MCAR0120</string>
     <string name="map_normal">Normal</string>
     <string name="map_satellite">Satellite</string>
     <string name="map_terrain">Terrain</string>
