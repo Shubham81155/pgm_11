@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Google Maps Demo</string>
+    <!-- Replace with your own details; shown on screen for the test-case screenshots -->
+    <string name="student_info">Name: YOUR NAME  |  USN: YOUR USN</string>
+    <string name="map_normal">Normal</string>
+    <string name="map_satellite">Satellite</string>
+    <string name="map_terrain">Terrain</string>
+    <string name="map_hybrid">Hybrid</string>
+    <string name="marker_title">Bengaluru</string>
+    <string name="marker_snippet">Vidhana Soudha, Karnataka, India</string>
+</resources>
